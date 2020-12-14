@@ -1,0 +1,6 @@
+.flexing {
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid orange;
+  justify-content: space-evenly;
+}
